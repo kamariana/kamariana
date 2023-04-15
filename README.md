@@ -4,7 +4,7 @@ I'm A Kamariana.
 
 I'm a Human-Centric Teacher and Design Engineer; 
 
-I'm deeply interested in faith and technology. These these two are my important area of focus for promoting human well-being and creating positive change in the world. Quran, Hadith, and open web technologies like HTML, CSS, JavaScript, and various web APIs are my favorite tools to enhance and amplify human efforts.
+I'm deeply interested in faith and technology. These two are my important area of focus for promoting human well-being and creating positive change in the world. Quran, Hadith, and open web technologies like HTML, CSS, JavaScript, and various web APIs are my favorite tools to enhance and amplify human efforts.
 
 Blending a background in Islam, history, and computer science, my work fits under the umbrella of teaching, UX research, UI design, and front-end engineering — and generally thinking about humans first.
 
