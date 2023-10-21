@@ -10,4 +10,4 @@ Deeply interested in faith and technology; God-willing, these are the two import
 
 How can I help?
 
-Send me an email at abd[at]kamariana.gm
+Send me an email at a[at]kamariana.gm
