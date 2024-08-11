@@ -8,6 +8,4 @@ Blending a background in history and computer science, my work fits under the um
 
 I'm deeply interested in faith, money, and technology; God-willing, these are the important areas of my focus for promoting human well-being and creating positive change in the world. Product design and open web technologies like HTML, CSS, JavaScript, and various web APIs are my favorite tools to enhance and amplify human efforts.
 
-How can I help?
-
-Send me an email at a[at]kamariana.gm
+I can help you, get in touch at a[at]kamariana.gm
