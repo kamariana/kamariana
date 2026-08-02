@@ -1,11 +1,9 @@
 # Peace and blessings! 👋
 
-I'm A Kamariana.
+I'm A Kamariana — a human-centric teacher, data architect, and design engineer.
 
-A Human-Centric Teacher and Design Engineer;
+I came to this work through history and computer science, and it still sits across three things: teaching, product design, and software engineering. What holds them together is the habit of thinking about people first.
 
-Blending a background in history and computer science, my work fits under the umbrellas of teaching, product design, and front-end software engineering — and generally thinking about humans first.
+Faith, finance, and technology are where my attention keeps returning.God-willing, that's where I want the work to count — human well-being, and change that lasts. Product design and the open web — HTML, CSS, JavaScript, and the APIs around them — are my favorite tools for amplifying what people are already trying to do.
 
-I'm deeply interested in faith, money, and technology; God-willing, these are the important areas of my focus for promoting human well-being and creating positive change in the world. Product design and open web technologies like HTML, CSS, JavaScript, and various web APIs are my favorite tools to enhance and amplify human efforts.
-
-I can help you, get in touch at a[at]kamariana.gm
+I'm also a mindset mentor. God-willing, I work with young people here in The Gambia on succeeding in this world and the hereafter.
