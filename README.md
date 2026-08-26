@@ -1,9 +1,7 @@
-# Peace and blessings! 👋
+# Peace 👋
 
-I'm A Kamariana — a human-centric teacher, data architect, and design engineer.
+I am a human-centric teacher, data architect, and design engineer. My path began in history and computer science. Today, my work lives at the intersection of teaching, product design, and software engineering.
 
-I came to this work through history and computer science, and it still sits across three things: teaching, product design, and software engineering. What holds them together is the habit of thinking about people first.
+What holds these disciplines together is a simple habit: thinking about people first.
 
-Faith, history, and technology are where my attention keeps returning.God-willing, that's where I want the work to count — human well-being, and change that lasts. Product design and the open web — HTML, CSS, JavaScript, and the APIs around them — are my favorite tools for amplifying what people are already trying to do.
-
-I'm also a mindset mentor. God-willing, I work with young people here in The Gambia on succeeding in this world and the hereafter.
+My attention continuously returns to history, finance, and technology. I use product design and the open web—HTML, CSS, JavaScript, and modern APIs—to amplify human potential. God-willing, beyond building systems, I serve as a mindset mentor to young people in The Gambia. I help them build the tools to succeed in this world and the hereafter. My goal is to build change that lasts.
