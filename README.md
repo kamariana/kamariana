@@ -1,5 +1,5 @@
 # Peace 👋
 
-Professional labels can easily sound boastful, so I prefer to take a more self-effacing approach. Strip away the titles of data architect or design engineer, and my daily work simply lives at the intersection of teaching, product design, and software engineering. It is a path shaped by my roots in history and computer science, held together by the simple habit of putting people first.
+Strip away the titles — data architect, design engineer — and my daily work lives at the intersection of teaching, product design, and agentic engineering. It is a path shaped by my roots in history and computer science, held together by the simple habit of putting people first.
 
-My attention continuously returns to faith, history, and technology. I use product design and the open web—HTML, CSS, JavaScript, and modern APIs—to amplify human potential. God-willing, beyond building systems, I serve as a mindset mentor to young people in The Gambia. I help them build the tools to succeed in this world and the hereafter. My goal is to build change that lasts.
+My attention returns again and again to faith, history, and technology. I use product design and the open web — HTML, CSS, JavaScript, and modern APIs — to amplify human potential. Beyond the systems themselves, God-willing, I work as a mindset mentor to young people, helping them build the tools to succeed in this world and the hereafter. My aim is to contribute to change that lasts.
